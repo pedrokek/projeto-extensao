@@ -4,7 +4,12 @@
 
 [Projeto feito com auxilio deste tutorial no Youtube](https://youtu.be/Dukz-3mS3Us)
 
-Em que consiste o aprendizado:
+
+-   Este é um app MERN (uma aplicação web desenvolvida com a pilha MERN, um conjunto de tecnologias que inclui MongoDB, Express, React e Node.js) que funciona como o esqueleto de uma loja.
+-   Você pode criar, atualizar e deletar produtos com seus respectivos preços e imagens.
+-   Note que é um projeto acadêmico e tem suas limitações, não é viável utilizá-lo de maneira profissional.
+
+    Em que consiste o aprendizado:  
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 -   🔥 Construir API
