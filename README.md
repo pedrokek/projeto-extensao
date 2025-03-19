@@ -1,8 +1,6 @@
 # projeto-extensao
-<h1 align="center">Projeto de Extensão🚀</h1>
+<h1 align="center">Projeto de Extensão</h1>
 
-
-[Projeto feito com auxilio deste tutorial no Youtube](https://youtu.be/Dukz-3mS3Us)
 
 Em que consiste o aprendizado:
 
