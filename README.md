@@ -2,9 +2,6 @@
 <h1 align="center">Projeto de Extensão🚀</h1>
 
 
-[Projeto feito com auxilio deste tutorial no Youtube](https://youtu.be/Dukz-3mS3Us)
-
-
 -   Este é um app MERN (uma aplicação web desenvolvida com a pilha MERN, um conjunto de tecnologias que inclui MongoDB, Express, React e Node.js) que funciona como o esqueleto de uma loja.
 -   Você pode criar, atualizar e deletar produtos com seus respectivos preços e imagens.
 -   Note que é um projeto acadêmico e tem suas limitações, não é viável utilizá-lo de maneira profissional.
